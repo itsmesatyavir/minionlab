@@ -112,9 +112,9 @@ This project is licensed under the [Apache-2.0 License](LICENSE).
 
 ## 🤝 Credits
 
-- Developed by [itsmesatyavir](https://github.com/itsmesatyavir)
+- Shared by [itsmesatyavir](https://github.com/itsmesatyavir)
 - Telegram Support: [@forestarmy](https://t.me/forestarmy)
-
+Developer [elpuqus](https://t.me/elpuqus)
 ---
 
 ## ⭐️ Star the Repo
