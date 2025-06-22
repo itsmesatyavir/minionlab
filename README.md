@@ -114,7 +114,7 @@ This project is licensed under the [Apache-2.0 License](LICENSE).
 
 - Shared by [itsmesatyavir](https://github.com/itsmesatyavir)
 - Telegram Support: [@forestarmy](https://t.me/forestarmy)
-Developer [elpuqus](https://t.me/elpuqus)
+- Developer [elpuqus](https://t.me/elpuqus)
 ---
 
 ## ⭐️ Star the Repo
