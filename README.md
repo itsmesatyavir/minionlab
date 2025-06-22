@@ -49,7 +49,7 @@ git clone https://github.com/itsmesatyavir/minionlab.git
 cd minionlab
 ```
 ```bash
-minionlab.zip
+unzip minionlab.zip
 ```
 
 
